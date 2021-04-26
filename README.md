@@ -1,6 +1,6 @@
 ## How to run the program:
-- Clone and extract the repository. 
-- Open terminal in the directory inside the extracted folder the extracted.
+- Clone the repository. 
+- Open terminal in the directory inside the cloned folder.
 - Install required packages using pip:
     ```sh
     pip install -r requirements.txt
