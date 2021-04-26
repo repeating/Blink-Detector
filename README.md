@@ -1,6 +1,10 @@
 ## How to run the program:
 - Clone and extract the repository. 
 - Open terminal in the directory inside the extracted folder the extracted.
+- Install required packages using pip:
+    ```sh
+    pip install -r requirements.txt
+    ```
 - To run the detector on a video file, run the following line on the terminal:
     ```sh
     python detect_blinks.py --video <file_name>
